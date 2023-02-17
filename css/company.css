@@ -1,0 +1,126 @@
+.company__filter-inpbut {
+    background: #3E4459;
+border-radius: 5px;
+font-weight: 300;
+font-size: 14px;
+line-height: 19px;
+color: #C4C4C4;
+position: relative;
+width: 465px;
+height: 36px;
+padding-left: 16px;
+margin-right: 26px;
+}
+
+
+
+.table__company{
+    padding-top: 17px;
+    padding-left: 10px;
+    padding-right: 8px;
+    background: #383E57;
+    box-shadow: 7px 7px 8px rgba(0, 0, 0, 0.15);
+    border-radius: 18px;
+}
+
+.table__company-Header{
+    
+    font-weight: 700;
+font-size: 14px;
+line-height: 19px;
+color: #FFFFFF;
+    display: flex;
+    margin-bottom: 20px;
+}
+.card__table-fond{
+    display: flex;
+    
+}
+.card__table{
+    padding: 13px 0px 18px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+.info__header-struc{
+    margin: 55px 0px 58px 0px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.card__table {
+    font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+color: #A1A6BE;
+align-items: center;
+
+
+}
+.table__name_company{
+    margin-bottom: 59px;
+    background-image: url(../img/company/Group\ 227.png);
+}
+.table__company-name {
+    
+    margin-right: 40px;
+}
+.table__company-inn {
+    margin-right: 97px;
+}
+.table__company-ruk {
+    margin-right: 136px;
+}
+
+.card__table-fond img{
+    margin-right: 9px;
+}
+
+
+.card__table-fond {
+    width: 226px;
+}
+.card__table-inn {
+    width: 128px;
+    padding: 0px 30px 0px 28px;
+}
+.card__table-name {
+    width: 242px;
+    
+    padding: 0px 0px 0px 30px;
+}
+.card__table-obl {
+    width: 401px;
+    
+    padding: 0px 0px 0px 30px;
+}
+.card__table-img {
+    width: 50px;
+    padding: 0px 0px 0px 11px;
+}
+._active{
+    background-color: aqua;
+}
+
+.scroll__table{
+    height: 737px;
+    overflow-y: scroll;
+   
+
+}
+.scroll__table::-webkit-scrollbar{
+width: 15px;
+border-radius: 6px;
+}
+.scroll__table::-webkit-scrollbar-track{
+    background-color: #3E4459;
+    border-radius: 6px;
+   
+
+}
+.scroll__table::-webkit-scrollbar-thumb{
+    border-radius: 6px;
+    background-color: #23273A;
+   
+}
+
